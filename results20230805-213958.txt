@@ -1,0 +1,40 @@
+[epoch: 0]
+train_loss: 0.4871
+lr: 0.000200
+global correct: 100.0
+average row correct: ['100.0', 'nan']
+IoU: ['100.0', 'nan']
+mean IoU: nan
+
+[epoch: 1]
+train_loss: 0.0637
+lr: 0.000154
+global correct: 100.0
+average row correct: ['100.0', 'nan']
+IoU: ['100.0', 'nan']
+mean IoU: nan
+
+[epoch: 2]
+train_loss: 0.0323
+lr: 0.000107
+global correct: 100.0
+average row correct: ['100.0', 'nan']
+IoU: ['100.0', 'nan']
+mean IoU: nan
+
+[epoch: 3]
+train_loss: 0.0245
+lr: 0.000057
+global correct: 100.0
+average row correct: ['100.0', 'nan']
+IoU: ['100.0', 'nan']
+mean IoU: nan
+
+[epoch: 4]
+train_loss: 0.0218
+lr: 0.000000
+global correct: 100.0
+average row correct: ['100.0', 'nan']
+IoU: ['100.0', 'nan']
+mean IoU: nan
+
